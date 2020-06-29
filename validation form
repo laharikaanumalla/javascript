@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+ <h1>St Martin's Engineering college</h1>
+
+<form action="https://www.smec.ac.in/" method="post">
+  <h3>NAME</h3>
+  <input type="text" name="fname"  required></p>
+  <h3>EMAILI'D</h3>
+  <p><input type="text" email="fname"  required></p>
+  <h3>DATE OF BIRTH</h3>
+  <p><input type="text" mobile number="fname" required></p>
+  <p><input type="submit" value="Submit"></p>
+</form>
+
+<p>If you click submit, without filling out the text field,
+your browser will display an error message.</p>
+
+</body>
+</html>
